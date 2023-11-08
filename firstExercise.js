@@ -11,8 +11,7 @@
 
 // A. TASK 1:VARIABLES and OPERATORS
 // 1. Create a variable called “language” and assign it the value “JavaScript”. Then create
-// a variable called “score” and assign it the value “10”.
-
+//  variable called “score” and assign it the value “10”.
 // 2.Create two variables called “length” and “width”. Assign each variable a value of 10 and 5 respectfully. Use
 // the variables to calculate the area of a rectangle with the length and width specified (remember area = length x width).
 // Write the following to the console using CONCATENATION and BACKTICKS: 
@@ -23,8 +22,7 @@
 
 // 4.Using the variables you created in the previous step, output the results
 // of the division in the following format: “num1 / num2 = x remainder y.” HINT: Backticks
-
-
+    
 // B. Task 2:Data Types
 // 1. Define the following data types with your own contents[ 'integer', 'decimal', 'string', 'array'(minimum: 3 items), 'Object'(minimum: 4 values)]
 // 2. Once you’ve created the variables, display them to the console
